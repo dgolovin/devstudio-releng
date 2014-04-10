@@ -1,0 +1,66 @@
+[submodule "jbosstools-build"]
+	path = jbosstools-build
+	url = git@github.com:dgolovin/jbosstools-build
+[submodule "jbosstools-base"]
+	path = jbosstools-base
+	url = git@github.com:dgolovin/jbosstools-base
+[submodule "jbosstools-jst"]
+	path = jbosstools-jst
+	url = git@github.com:dgolovin/jbosstools-jst
+[submodule "jbosstools-xulrunner"]
+	path = jbosstools-xulrunner
+	url = git@github.com:dgolovin/jbosstools-xulrunner
+[submodule "jbosstools-vpe"]
+	path = jbosstools-vpe
+	url = git@github.com:dgolovin/jbosstools-vpe
+[submodule "jbosstools-javaee"]
+	path = jbosstools-javaee
+	url = git@github.com:dgolovin/jbosstools-javaee
+[submodule "jbosstools-hibernate"]
+	path = jbosstools-hibernate
+	url = git@github.com:dgolovin/jbosstools-hibernate
+[submodule "jbosstools-server"]
+	path = jbosstools-server
+	url = git@github.com:dgolovin/jbosstools-server
+[submodule "jbosstools-portlet"]
+	path = jbosstools-portlet
+	url = git@github.com:dgolovin/jbosstools-portlet
+[submodule "jbosstools-birt"]
+	path = jbosstools-birt
+	url = git@github.com:dgolovin/jbosstools-birt
+[submodule "jbosstools-arquillian"]
+	path = jbosstools-arquillian
+	url = git@github.com:dgolovin/jbosstools-arquillian
+[submodule "jbosstools-discovery"]
+	path = jbosstools-discovery
+	url = git@github.com:dgolovin/jbosstools-discovery
+[submodule "jbosstools-openshift"]
+	path = jbosstools-openshift
+	url = git@github.com:dgolovin/jbosstools-openshift
+[submodule "jbosstools-forge"]
+	path = jbosstools-forge
+	url = git@github.com:dgolovin/jbosstools-forge
+[submodule "jbosstools-aerogear"]
+	path = jbosstools-aerogear
+	url = git@github.com:dgolovin/jbosstools-aerogear
+[submodule "jbosstools-central"]
+	path = jbosstools-central
+	url = git@github.com:dgolovin/jbosstools-central
+[submodule "jbosstools-livereload"]
+	path = jbosstools-livereload
+	url = git@github.com:dgolovin/jbosstools-livereload
+[submodule "jbosstools-webservices"]
+	path = jbosstools-webservices
+	url = git@github.com:dgolovin/jbosstools-webservices
+[submodule "jbosstools-esb"]
+	path = jbosstools-esb
+	url = git@github.com:dgolovin/jbosstools-esb
+[submodule "jbosstools-freemarker"]
+	path = jbosstools-freemarker
+	url = git@github.com:dgolovin/jbosstools-freemarker
+[submodule "jbosstools-gwt"]
+	path = jbosstools-gwt
+	url = git@github.com:dgolovin/jbosstools-gwt
+[submodule "jbosstools-browsersim"]
+	path = jbosstools-browsersim
+	url = ./jbosstools-browsersim/
