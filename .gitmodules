@@ -64,3 +64,6 @@
 [submodule "jbosstools-browsersim"]
 	path = jbosstools-browsersim
 	url = ./jbosstools-browsersim/
+[submodule "jbosstools-dev"]
+	path = jbosstools-dev
+	url = ./jbosstools-dev/
