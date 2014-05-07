@@ -63,7 +63,7 @@
 	url = git@github.com:dgolovin/jbosstools-gwt
 [submodule "jbosstools-browsersim"]
 	path = jbosstools-browsersim
-	url = git@github.com:dgolovin/jboostools-browsersim
+	url = git@github.com:dgolovin/jbosstools-browsersim
 [submodule "jbosstools-dev"]
 	path = jbosstools-dev
 	url = git@github.com:dgolovin/jbosstools-dev
